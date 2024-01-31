@@ -36,7 +36,7 @@ chmod +x install.sh SubDomz
  /____/ \__,_//_.___//_____/ \____//_/ /_/ /_/  
 
         All in One Subdomain Enumeration Tool         
-             Made with <3 by           
+             Made with <3 by 0x3hIrsh8k          
 
 
  Options:
