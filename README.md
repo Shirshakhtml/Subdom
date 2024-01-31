@@ -14,7 +14,7 @@
 
 </div>
 ### What is SubDom ?
-SubDom is an automation tool for finding the subdomains of the given target or targets. It uses multiple tools and various online search engines and services in parallel to find subdomains effectively and sort and save them in an organised way.
+This script is a bash shell utility for performing comprehensive subdomain enumeration for a given domain. It's a reconnaissance tool that aggregates data from various public sources and uses multiple techniques to identify subdomains associated with the target domain, which is a common first step in the information gathering phase of a web application security assessment or penetration test.
 
 #### Platforms Tested:
  + Debian based Linux
@@ -26,3 +26,22 @@ cd SubDomz
 chmod +x install.sh SubDomz
 ./install.sh
 ```
+
+### Usage
+```
+    _____         __     ____                         
+   / ___/ __  __ / /_   / __ \ ____   ________  ____  
+   \__ \ / / / // __ \ / / / // __ \ / __  __ \/_  /  
+  ___/ // /_/ // /_/ // /_/ // /_/ // / / / / / / /_  
+ /____/ \__,_//_.___//_____/ \____//_/ /_/ /_/ /___/  
+
+        All in One Subdomain Enumeration Tool         
+             Made with <3 by 0xPugazh              
+
+
+ Options:
+    -d ==> Domain To enumerate
+    -o ==> Output file to save the Final Results
+    -h ==> Displays this help message and exit
+    -v ==> Displays this version and exit
+ ```
