@@ -30,13 +30,13 @@ chmod +x install.sh SubDomz
 ### Usage
 ```
     _____         __     ____                         
-   / ___/ __  __ / /_   / __ \ ____   ________  ____  
-   \__ \ / / / // __ \ / / / // __ \ / __  __ \/_  /  
-  ___/ // /_/ // /_/ // /_/ // /_/ // / / / / / / /_  
- /____/ \__,_//_.___//_____/ \____//_/ /_/ /_/ /___/  
+   / ___/ __  __ / /_   / __ \ ____   ________   
+   \__ \ / / / // __ \ / / / // __ \ / __  __ \  
+  ___/ // /_/ // /_/ // /_/ // /_/ // / / / / / 
+ /____/ \__,_//_.___//_____/ \____//_/ /_/ /_/  
 
         All in One Subdomain Enumeration Tool         
-             Made with <3 by 0xPugazh              
+             Made with <3 by           
 
 
  Options:
@@ -45,3 +45,35 @@ chmod +x install.sh SubDomz
     -h ==> Displays this help message and exit
     -v ==> Displays this version and exit
  ```
+### Tools Included
++ Subfinder
++ Assetfinder
++ Chaos
++ Shuffledns
++ Findomain
++ Amass
++ Gauplus
++ Waybackurls 
++ Github-Subdomains
++ Gitlab-Subdomains
++ Crobat
++ CTFR
++ Cero
++ Sublist3r
++ Shodomain
++ Censys-Subdomain-Finder
++ Nmap
+
+### Online Search Engines & Services
++ Archive (Wayback Machine)
++ BufferOver
++ Crtsh
++ Riddler
++ CertSpotter
++ JLDC
++ HackerTarget
++ Anubis
++ Omnisint(Crobat)
+
+### Credit
+This tool was inspired by [@bing0o](https://github.com/bing0o) [domains.sh](https://github.com/bing0o/bash_scripting/blob/master/domains.sh) script. Thanks to him for the great idea!
