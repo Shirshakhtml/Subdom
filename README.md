@@ -13,7 +13,9 @@
   <img alt="letschecksmb" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/Subdom">
 
 </div>
-### What is SubDom ?
+
+### What is SubDom?
+
 This script is a bash shell utility for performing comprehensive subdomain enumeration for a given domain. It's a reconnaissance tool that aggregates data from various public sources and uses multiple techniques to identify subdomains associated with the target domain, which is a common first step in the information gathering phase of a web application security assessment or penetration test.
 
 #### Platforms Tested:
